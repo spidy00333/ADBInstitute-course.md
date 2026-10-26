@@ -1,4 +1,4 @@
-# ADBInstitute-course
+
 # ADBI Cybersecurity Course: My Notes
 
 I took the free **Cybersecurity** course from the ADBI E-Learning platform (Asian Development Bank Institute, taught by Dr. Dalma Demeter). It has three short units, and I wrote these notes to help me remember the essentials and to have them in one place.
